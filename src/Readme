@@ -1,0 +1,6 @@
+Steps:
+	install httpster: sudo npm install -g httpster (to serve files)
+		run httpster -d  project-folder -p port 
+		in browser type localhost:port
+
+	
